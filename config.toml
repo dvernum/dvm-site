@@ -102,7 +102,11 @@ disqusShortname = ""
       image = "pic14.jpg"
       url = "artist_development/"
 
-
+    [[params.tiles.showcase]]
+      title = "About DVM"
+      subtitle = ""
+      image = "pic15.jpg"
+      url = "about/"
 
 
   [params.blog]
