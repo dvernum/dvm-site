@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Daring Ventures Studios
 type: tile_design
 image: pic15.jpg
 picture: pic15.jpg
