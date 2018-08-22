@@ -1,5 +1,5 @@
 ---
-title: live recording & mixing
+title: live recording
 type: tile_design
 order: 2
 picture: pic40.jpg
