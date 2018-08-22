@@ -1,0 +1,18 @@
+{{ "<!-- Two -->" | safeHTML}}
+    <section id="two">
+      <div class="inner">
+        <div class="grid-container">
+          <div class="grid-item">
+            <img src="{{ .Site.Params.baseURL }}img/{{ .Site.Params.Two.image }}" alt="" />
+          </div>
+          <div class="grid-item">
+            <div class="inner">
+              <header class="major">
+                <h2>{{ .Site.Params.Two.title }}</h2>
+              </header>
+              <p>{{ .Site.Params.Two.subtitle }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

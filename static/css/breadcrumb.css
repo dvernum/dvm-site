@@ -1,0 +1,22 @@
+.breadcrumb {
+    padding: 0;
+    list-style: none;
+}
+.breadcrumb li {
+    display: inline;
+    font-size: 2.25vh;
+    font-weight: bolder;
+}
+.breadcrumb li+li:before {
+    padding: 8px;
+    color: white;
+    content: ">>\00a0";
+}
+.breadcrumb li a {
+    color: white;
+    text-decoration: none;
+}
+.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+}
