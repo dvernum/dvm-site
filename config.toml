@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://dvernum.github.io/"
+baseURL = "https://daringventuresmultimedia.com"
 languageCode = "en-us"
 title = "DVM"
 theme = "forty"
