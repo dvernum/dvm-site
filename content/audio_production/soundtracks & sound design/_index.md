@@ -1,5 +1,5 @@
 ---
-title: sound tracks & sound design
+title: soundtracks & sound design
 type: tile_design
 order: 3
 picture: pic07.jpg
