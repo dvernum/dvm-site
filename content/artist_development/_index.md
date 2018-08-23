@@ -19,11 +19,20 @@ Drum Kit & Percussion
 <br>
 Saxophone
 <br>
-Violin
+</i>
+
+<strong><u>Production Instruction:</strong></u>
 <br>
-Clarinet
+<i>
+Composing
 <br>
-Flute
+Arranging
+<br>
+Songwriting
+<br>
+Recording
+<br>
+Mixing
 <br>
 </i>
 

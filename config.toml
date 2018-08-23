@@ -57,6 +57,10 @@ disqusShortname = ""
       name = "Artist Development"
       url = "artist_development"
 
+    [[params.navigation.links]]
+      name = "About"
+      url = "about"
+
 
     # [[params.navigation.links]]
     #   name = "Elements"
@@ -103,8 +107,8 @@ disqusShortname = ""
       url = "artist_development/"
 
     [[params.tiles.showcase]]
-      title = "About DVM"
-      subtitle = ""
+      title = "About"
+      subtitle = "about daring ventures studios"
       image = "pic15.jpg"
       url = "about/"
 
@@ -121,6 +125,7 @@ disqusShortname = ""
     enable = true
     buttonSend = "Send message"
     buttonClear = "Clear"
+    formEmail = "daring.ventures@gmail.com"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -133,7 +138,7 @@ disqusShortname = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    formEmail = "daring.ventures@gmail.com"
+    # formEmail = "example@domain.com"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
