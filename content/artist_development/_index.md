@@ -32,6 +32,8 @@ Songwriting
 <br>
 Recording
 <br>
+Editing
+<br>
 Mixing
 <br>
 </i>

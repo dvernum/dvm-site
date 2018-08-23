@@ -5,7 +5,7 @@ order: 1
 image: pic08.jpg
 picture: pic08.jpg
 ---
-President/Founder of Daring Ventures Multimedia
+President/Founder of DVM
 <br>
 Conductor/Director
 <br>
