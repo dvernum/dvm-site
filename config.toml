@@ -49,7 +49,7 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Record Production"
+      name = "Audio Production"
       url = "audio_production"
 
 
@@ -60,6 +60,10 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "About"
       url = "about"
+
+    [[params.navigation.links]]
+      name = "Rates"
+      url = "rates"
 
 
     # [[params.navigation.links]]
@@ -96,21 +100,27 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Audio Production Services"
-      subtitle = "directing & recording for stage and studio"
+      subtitle = "recording and directing for studio and stage"
       image = "pic30.jpg"
       url = "audio_production/"
 
     [[params.tiles.showcase]]
       title = "Artist Development Services"
-      subtitle = "music education and artist advancement"
+      subtitle = "artist advancement and music education"
       image = "pic14.jpg"
       url = "artist_development/"
 
     [[params.tiles.showcase]]
       title = "About"
-      subtitle = "about daring ventures studios"
+      subtitle = ""
       image = "pic15.jpg"
       url = "about/"
+
+    [[params.tiles.showcase]]
+      title = "Rates"
+      subtitle = ""
+      image = "pic05.jpg"
+      url = "rates/"
 
 
   [params.blog]

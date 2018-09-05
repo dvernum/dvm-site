@@ -5,6 +5,17 @@ order: 2
 picture: pic17.jpg
 image: pic17.jpg
 ---
+Digital mixing and editing services.
+<br><br>
+<b>PROTOCOL >></b>
+<br>
+Uncompressed/High-Resolution [WAV or AIFF] files preferred
+<br>
+Raw [unprocessed], individual multitracks are preferred, [please zero them out; leave ample tail if any processing]
+<br>
+Project file formats accepted:  Pro Tools [11], Ableton Live [8], Studio One [2]
+<br>
+Preferred transfer method is DropBox.  A folder can be provided if needed.
 
 <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/250374157&amp;color=00cc11&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>
 <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/250370208&amp;color=00cc11&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>

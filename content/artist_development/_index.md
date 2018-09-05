@@ -1,25 +1,11 @@
 ---
-title: artist development services
+title: Artist Development Services
 type: tile_design
+order: 2
 image: pic14.jpg
 picture: pic13.jpg
 ---
-<strong><u>Instrument-specific Instruction:</strong></u>
-<br>
-<i>
-Guitar
-<br>
-Bass Guitar
-<br>
-Piano & Keyboard
-<br>
-Voice
-<br>
-Drum Kit & Percussion
-<br>
-Saxophone
-<br>
-</i>
+<i>Solo and ensemble sessions, beginner to professional levels.</i>
 
 <strong><u>Production Instruction:</strong></u>
 <br>
@@ -38,28 +24,19 @@ Mixing
 <br>
 </i>
 
-<i>Solo and ensemble sessions, beginner to professional levels.</i>
-
-<u><strong>RATES</strong></u>
+<strong><u>Instrument-specific Instruction:</strong></u>
 <br>
-$70 per hour
+<i>
+Guitar
 <br>
-$50 per half-hour
+Bass Guitar
 <br>
-<i>Surcharges apply beyond a 20-mile radius of the Texas State Capitol.</i>
-
+Piano & Keyboard
 <br>
-<u><strong>POLICY</strong></u>
+Voice
 <br>
-Payments may be made via cash, check, or the Zelle* network.
+Drum Kit & Percussion
 <br>
-A discount is offered for advance payment of four [4] sessions or more, on a graduating scale.
+Saxophone
 <br>
-24-hour minimum advance notice (email or text message) of nonappearance is required to cancel billing of a session.
-<br>
-Payments are nonrefundable unless the service provider cancels in writing and is unable to provide make-up
-sessions.
-
-*<a href= "https://www.zellepay.com/get-started" target="_blank">Zelle</a><i>
-[many major banks are members of the Zelle network]
-<br>
+</i>
