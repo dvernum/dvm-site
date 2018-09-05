@@ -2,7 +2,7 @@
 title: Sense
 type: tile_design
 order: 4
-image: pic48.jpg
-picture:  pic01.jpg
+image: pic02.jpg
+picture:  pic02.jpg
 ---
-Coming soon...
+Coming soon... graphics by Jude Goldman
