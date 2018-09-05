@@ -40,6 +40,8 @@ D.B. Rouse
 <br>
 Dean Seltzer
 <br>
+Diana Mangano
+<br>
 Dominick Leslie
 <br>
 Dr. Jah and the Love Prophets

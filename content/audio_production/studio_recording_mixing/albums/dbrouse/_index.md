@@ -17,7 +17,7 @@ picture: pic42.jpg
 <div style="text-align: center;">
 <span style="font-size: x-small;"><a href="http://www.cdbaby.com/cd/dbrouse1" target="_blank">"Whiskey, The Road to Ruin"</a></span></div>
 <div style="text-align: center;">
-<span style="font-size: xx-small;">[also available on&nbsp;<a href="https://itunes.apple.com/us/album/whiskey-the-road-to-ruin-single/id1209255940" target="_blank">iTunes</a>&nbsp;and&nbsp;<a href="https://www.amazon.com/Whiskey-Road-Ruin-Explicit/dp/B06X9MB87M/ref=sr_1_1?ie=UTF8&amp;qid=1488070165&amp;sr=8-1&amp;keywords=whiskey%2C+the+road+to+ruin" target="_blank">Amazon</a>&nbsp;and most streaming services. &nbsp;GRAPHIC CONTENT]</span></div>
+<span style="font-size: small;">[also available on&nbsp;<a href="https://itunes.apple.com/us/album/whiskey-the-road-to-ruin-single/id1209255940" target="_blank">iTunes</a>&nbsp;and&nbsp;<a href="https://www.amazon.com/Whiskey-Road-Ruin-Explicit/dp/B06X9MB87M/ref=sr_1_1?ie=UTF8&amp;qid=1488070165&amp;sr=8-1&amp;keywords=whiskey%2C+the+road+to+ruin" target="_blank">Amazon</a>&nbsp;and most streaming services. &nbsp;**GRAPHIC CONTENT**]</span></div>
 <br />
 <div style="text-align: center;">
 <br /></div>
@@ -39,7 +39,7 @@ picture: pic42.jpg
 <span style="font-size: x-small;">
 
 <a href="http://www.cdbaby.com/cd/dbrouse1" target="_blank">"God Is On Your Side"</a></span><br />
-<span style="font-size: xx-small;">[also available on <a href="https://itunes.apple.com/us/album/god-is-on-your-side-single/id1085431506" target="_blank">iTunes</a> and <a href="https://play.spotify.com/album/0LnSndd9q6TZcS1NFlt7F5" target="_blank">Spotify</a> and most streaming services]</span></div>
+<span style="font-size: small;">[also available on <a href="https://itunes.apple.com/us/album/god-is-on-your-side-single/id1085431506" target="_blank">iTunes</a> and <a href="https://play.spotify.com/album/0LnSndd9q6TZcS1NFlt7F5" target="_blank">Spotify</a> and most streaming services]</span></div>
 </div>
 <div style="text-align: center;">
 <br />

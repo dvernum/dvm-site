@@ -2,7 +2,7 @@
 title: Mala Nota
 type: tile_design
 order: 5
-image: pic51.jpg
-picture:  pic51.jpg
+image: pic62.jpg
+picture:  pic62.jpg
 ---
-Coming soon... Austin band led by Guillermo Azpeitia
+Coming soon... led by Guillermo Azpeitia
