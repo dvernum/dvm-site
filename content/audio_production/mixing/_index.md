@@ -9,7 +9,7 @@ Digital mixing and editing services.
 <br><br>
 <b>PROTOCOL >></b>
 <br>
-Uncompressed/High-Resolution [WAV or AIFF] files preferred
+Uncompressed/High-Resolution [WAV or AIFF] files are preferred
 <br>
 Raw [unprocessed], individual multitracks are preferred, [please zero them out; leave ample tail if any processing]
 <br>

@@ -1,7 +1,7 @@
 ---
 title: Happy Horse Band
 type: tile_design
-order: 2
+order: 3
 image: pic56.jpg
 picture:  pic49.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sense
 type: tile_design
-order: 4
+order: 6
 image: pic61.jpg
 picture:  pic61.jpg
 ---
