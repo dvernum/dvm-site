@@ -7,7 +7,7 @@ picture: pic13.jpg
 ---
 <i>Solo and ensemble sessions, beginner to professional levels.</i>
 
-<strong><u>Production Instruction:</strong></u>
+<strong><u>Production Services:</strong></u>
 <br>
 <i>
 Composing
@@ -15,6 +15,8 @@ Composing
 Arranging
 <br>
 Songwriting
+<br>
+Performing
 <br>
 Recording
 <br>
@@ -35,7 +37,7 @@ Piano & Keyboard
 <br>
 Voice
 <br>
-Drum Kit & Percussion
+Percussion
 <br>
 Saxophone
 <br>

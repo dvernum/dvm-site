@@ -1,5 +1,5 @@
 ---
-title: studio recording
+title: recording
 type: tile_design
 order: 1
 picture: pic31.jpg
