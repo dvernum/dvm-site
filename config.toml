@@ -50,7 +50,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Audio Production"
-      url = "https://daringventuresmultimedia.com/audio_production"
+      url = "audio_production"
 
 
     [[params.navigation.links]]

@@ -12,7 +12,7 @@ Digital editing, mixing, and mastering services.
 <br>
 <i>Uncompressed</i> [WAV or AIFF] file format when possible
 <br>
-<i>High-resolution</i> [bit depth 16+bits/sample rate 44.1+kHz; 24 bit/96 kHz or higher is preferred]
+<i>High-resolution</i> -- [bit depth: 16+bits, sample rate: 44.1+kHz; 24 bit/96 kHz or higher is preferred]
 <br>
 <i>Raw</i> [unprocessed, unless a specific effect is desired]
 <br>
