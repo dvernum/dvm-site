@@ -14,7 +14,7 @@ Digital editing, mixing, and mastering services.
 <br>
 <i>Uncompressed</i> [WAV or AIFF] file format
 <br>
-<i>High-resolution</i> -- [bit depth: 16+bits, sample rate: 44.1+kHz; 24 bit/96 kHz or higher is preferred]
+<i>High-resolution</i> [bit depth: 16+bits, sample rate: 44.1+kHz; 24 bit/96 kHz or higher is preferred]
 <br>
 <br>
 <u>Mixing Preparation Checklist:</u>
