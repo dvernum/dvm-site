@@ -1,7 +1,7 @@
 ---
-title: editing
+title: post-production
 type: tile_design
-order: 2
+order: 4
 picture: pic17.jpg
 image: pic17.jpg
 ---
@@ -23,11 +23,10 @@ Digital editing, mixing, and mastering services.
 <br>(3) label clearly [VOX 1, VOX 2, GTR 1, KICK IN, KICK OUT, SNARE BTM, SNARE TOP, etc.]
 <br>(4) mono tracks should be exported as such
 <br>(5) do not dither when rendering
-<br>
-<br>
+
+
 * Project file formats accepted:  Pro Tools [.ptx], Ableton Live [.als], Studio One [.song], GarageBand [.band]
-<br>
-<br>
+
 * Preferred transfer method:  <a href="https://www.dropbox.com/" target="_blank">DropBox</span></a>.  [folder can be provided if needed]
 
 

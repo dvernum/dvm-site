@@ -49,7 +49,7 @@ picture:  pic49.jpg
 </tbody></table>
 <div style="text-align: center;">
 
-<a href="http://www.happyhorseband.com/" target="_blank"><span style="font-size: xx-large;"><b>HappyHorseBand.com</b></span></a>
+<a href="http://www.happyhorseband.com/" target="_blank"><span style="font-size: large;"><b>HappyHorseBand.com</b></span></a>
 <br>
 </div>
 <div class="separator" style="clear: both; font-size: medium; text-align: center;">

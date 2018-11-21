@@ -5,7 +5,9 @@ order: 2
 image: pic14.jpg
 picture: pic13.jpg
 ---
-<i>Solo and ensemble sessions, beginner to professional levels.</i>
+<i>Artist advancement and music education.
+<br>
+Solo and ensemble sessions, beginner to professional levels.</i>
 
 <strong><u>Production Services:</strong></u>
 <br>
