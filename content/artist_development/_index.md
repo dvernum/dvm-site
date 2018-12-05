@@ -5,10 +5,14 @@ order: 2
 image: pic14.jpg
 picture: pic13.jpg
 ---
-<i>Artist advancement and music education.
+ARTIST ADVANCEMENT AND MUSIC EDUCATION
 <br>
-Solo and ensemble sessions, beginner to professional levels.</i>
-
+<br>
+Solo and ensemble sessions, beginner to professional levels.
+<br>
+Location -- studio in NW Austin, client's location, or online [preferred platform - <a href="https://www.skype.com/en/" target="_blank">Skype</span></a>]
+<br>
+<br>
 <strong><u>Production Services:</strong></u>
 <br>
 <i>

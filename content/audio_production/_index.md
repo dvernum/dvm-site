@@ -5,4 +5,4 @@ order: 1
 image: pic43.jpg
 picture: pic43.jpg
 ---
-Recording and directing for studio and stage.
+RECORDING AND DIRECTING FOR STUDIO AND STAGE

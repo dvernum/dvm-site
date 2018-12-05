@@ -5,7 +5,7 @@ order: 2
 picture: pic07.jpg
 image:  pic07.jpg
 ---
-Soundtrack and sound design creation for film, television, and web broadcast.
+SOUNDTRACK and SOUND DESIGN CREATION FOR FILM, TELEVISION, and WEB BROADCAST
 <br>
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

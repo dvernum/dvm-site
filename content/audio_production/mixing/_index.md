@@ -5,10 +5,9 @@ order: 4
 picture: pic17.jpg
 image: pic17.jpg
 ---
-Digital editing, mixing, and mastering services.
+DIGITAL EDITING, MIXING and MASTERING SERVICES
 <br><br>
-<u>PROTOCOL</u> [when possible]
-<br>
+<u>PROTOCOL</u> [when possible]:
 <br>
 <i>Raw</i> [unprocessed, unless a specific effect is desired]
 <br>
@@ -17,7 +16,7 @@ Digital editing, mixing, and mastering services.
 <i>High-resolution</i> [bit depth: 16+bits, sample rate: 44.1+kHz; 24 bit/96 kHz or higher is preferred]
 <br>
 <br>
-<u>Mixing Preparation Checklist:</u>
+<u>MIXING PREPARATION CHECKLIST:</u>
 <br>(1) zero-out start times to ensure proper syncing
 <br>(2) leave ample tail if any processing
 <br>(3) label clearly [VOX 1, VOX 2, GTR 1, KICK IN, KICK OUT, SNARE BTM, SNARE TOP, etc.]
@@ -27,7 +26,7 @@ Digital editing, mixing, and mastering services.
 
 * Project file formats accepted:  Pro Tools [.ptx], Ableton Live [.als], Studio One [.song], GarageBand [.band]
 
-* Preferred transfer method:  <a href="https://www.dropbox.com/" target="_blank">DropBox</span></a>.  [folder can be provided if needed]
+* Preferred transfer method:  <a href="https://www.dropbox.com/" target="_blank">DropBox</span></a>  [folder can be provided if needed]
 
 
 <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/250374157&amp;color=00cc11&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>

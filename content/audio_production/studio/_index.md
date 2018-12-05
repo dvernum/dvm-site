@@ -5,4 +5,4 @@ order: 1
 picture: pic31.jpg
 image: pic45.jpg
 ---
-All phases of album production, from inception to release.
+ALL PHASES OF ALBUM PRODUCTION -- INCEPTION to RELEASE

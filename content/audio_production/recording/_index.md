@@ -5,8 +5,7 @@ order: 3
 picture: pic82.jpg
 image: pic79.jpg
 ---
-Digital recording services.
-<br>
+DIGITAL RECORDING SERVICES<br>
 
 * Pre-production and post-production studio in Northwest Austin, Texas
 * Recording with Pro Tools and Ableton Live
