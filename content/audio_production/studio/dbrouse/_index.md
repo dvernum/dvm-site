@@ -12,13 +12,13 @@ EXPLICIT CONTENT
 
 <br>
 
-<iframe src="https://open.spotify.com/embed/album/3JplakhQ157KaSWCzRZKD1" width="300" height="100" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/4QOh3JY1L4ZYCpsfNEORBX" width="300" height="100" frameborder="0" allowtransparency="true"></iframe>
 
 <br><br>
-<a href="https://www.thesouthernsounding.com/track-spotlight/track-premiere-db-rouse-get-my-shit-together" target="_blank"><b>"THE SOUTHERN SOUNDING -- track spotlight"</b></span></a>
+<a href="https://www.thesouthernsounding.com/track-spotlight/track-premiere-db-rouse-get-my-shit-together" target="_blank"><b>THE SOUTHERN SOUNDING -- track spotlight</b></span></a>
 <br>
 <br>
-<a href="http://imperfectfifth.com/d-b-rouse-about-the-bite-missing-from-your-sandwich/" target="_blank"><b>Meredith Schneider review on "Imperfect Fifth"</b></span></a>
+<a href="http://imperfectfifth.com/d-b-rouse-about-the-bite-missing-from-your-sandwich/" target="_blank"><b>IMPERFECT FIFTH -- Meredith Schneider</b></span></a>
 <br>
 <br>
 <br>
