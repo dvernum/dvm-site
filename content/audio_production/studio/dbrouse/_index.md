@@ -6,7 +6,9 @@ image: pic47.jpg
 picture: pic42.jpg
 ---
 <div style="text-align: center;">
-<i>"Get My Shit Together"</i>
+"Get My Shit Together"
+<br>
+from the upcoming album <i>Choices Were Made</i>
 <br>
 EXPLICIT CONTENT
 
@@ -23,13 +25,13 @@ EXPLICIT CONTENT
 <br>
 <br>
 <br>
-<i>"About the Bite Missing From Your Sandwich"
+"About the Bite Missing From Your Sandwich"
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rxCovQQdbXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br><br><br>
-<i>"Whiskey, The Road to Ruin"</i>
+"Whiskey, The Road to Ruin"
 <br>
 EXPLICIT CONTENT
 <iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/fb53f788-4a40-4ac2-b23e-ea57b9c2fa15/mini/dark/opaque"></iframe>
@@ -40,7 +42,7 @@ EXPLICIT CONTENT
 <br>
 <br>
 <br>
-<i>"God Is On Your Side"</i>
+"God Is On Your Side"
 <br>
 
 <iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/f6151849-f955-4ddb-ad25-3ae8657fde53/mini/dark/opaque"></iframe>
@@ -59,7 +61,7 @@ EXPLICIT CONTENT
 <br>
 <br>
 <br>
-<i>"Papercut"</i>
+"Papercut"
 <div dir="ltr" style="text-align: center;" trbidi="on">
 <div class="separator" style="clear: both; text-align: center;">
 <span style="font-size: xx-small;"><iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=3976965623/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/track=3669357746/transparent=true/" style="border-width: 0px; height: 470px; width: 350px;"></iframe></span></div>
