@@ -16,21 +16,23 @@ EXPLICIT CONTENT
 
 <iframe src="https://open.spotify.com/embed/album/4QOh3JY1L4ZYCpsfNEORBX" width="300" height="100" frameborder="0" allowtransparency="true"></iframe>
 
-<br><br>
+<br>
 <a href="https://www.thesouthernsounding.com/track-spotlight/track-premiere-db-rouse-get-my-shit-together" target="_blank"><b>THE SOUTHERN SOUNDING -- track spotlight</b></span></a>
 <br>
-<br>
-<a href="http://imperfectfifth.com/d-b-rouse-about-the-bite-missing-from-your-sandwich/" target="_blank"><b>IMPERFECT FIFTH -- Meredith Schneider</b></span></a>
 <br>
 <br>
 <br>
 <br>
 "About the Bite Missing From Your Sandwich"
 <br>
+from the upcoming album <i>Choices Were Made</i>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rxCovQQdbXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<a href="http://imperfectfifth.com/d-b-rouse-about-the-bite-missing-from-your-sandwich/" target="_blank"><b>IMPERFECT FIFTH -- Meredith Schneider</b></span></a>
 
 
-<br><br><br>
+<br><br><br><br><br>
 "Whiskey, The Road to Ruin"
 <br>
 EXPLICIT CONTENT
@@ -39,6 +41,8 @@ EXPLICIT CONTENT
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/whiskey-the-road-to-ruin-single/1209255940"></iframe>
 <br>
 <iframe src="https://open.spotify.com/embed/album/3hiJndjRGoTEG30Y24gCaI" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -58,6 +62,8 @@ EXPLICIT CONTENT
 
 <br>
 <iframe src="https://open.spotify.com/embed/album/0LnSndd9q6TZcS1NFlt7F5" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<br>
+<br>
 <br>
 <br>
 <br>
