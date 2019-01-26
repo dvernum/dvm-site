@@ -24,7 +24,7 @@ DIGITAL EDITING, MIXING and MASTERING SERVICES
 <br>(5) do not dither when rendering
 
 
-* Project file formats accepted:  Pro Tools [.ptx], Ableton Live [.als], Studio One [.song], GarageBand [.band], Notion [.notion]
+* Project file formats accepted:  Pro Tools [.ptx], Ableton Live [.als], Studio One [.song], GarageBand [.band]
 
 * Preferred transfer method:  <a href="https://www.dropbox.com/" target="_blank">DropBox</span></a>  [folder can be provided if needed]
 

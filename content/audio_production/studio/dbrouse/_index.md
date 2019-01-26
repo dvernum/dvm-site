@@ -13,7 +13,11 @@ from the upcoming album <i>Choices Were Made</i>
 EXPLICIT CONTENT
 
 <br>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n5YzU_ImHFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<a href="https://thedailycountry.com/news/db-rouse-shares-the-delightfully-quirky-video-for-get-my-shit-together" target="_blank"><b>THE DAILY COUNTRY -- video review</b></span></a>
+<br>
+<br>
 <iframe src="https://open.spotify.com/embed/album/4QOh3JY1L4ZYCpsfNEORBX" width="300" height="100" frameborder="0" allowtransparency="true"></iframe>
 
 <br>

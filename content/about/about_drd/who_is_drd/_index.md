@@ -3,7 +3,7 @@ title: About Dr D
 type: tile_design
 order: 1
 image: pic08.jpg
-picture: pic08.jpg
+picture: pic104.jpg
 ---
 President/Founder of DVM
 <br>

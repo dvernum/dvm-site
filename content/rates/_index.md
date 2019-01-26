@@ -1,7 +1,7 @@
 ---
 title: Rates
 type: tile_design
-order: 4
+order: 3
 picture: pic05.jpg
 image: pic05.jpg
 ---

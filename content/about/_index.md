@@ -1,7 +1,7 @@
 ---
 title: About Daring Ventures Studios
 type: tile_design
-order: 3
+order: 5
 image: pic15.jpg
 picture: pic15.jpg
 ---

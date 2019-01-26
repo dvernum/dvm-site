@@ -52,19 +52,21 @@ disqusShortname = ""
       name = "Audio Production"
       url = "audio_production"
 
-
     [[params.navigation.links]]
       name = "Artist Development"
       url = "artist_development"
 
     [[params.navigation.links]]
-      name = "About"
-      url = "about"
-
-    [[params.navigation.links]]
       name = "Rates"
       url = "rates"
 
+    [[params.navigation.links]]
+      name = "Contact"
+      url = "contact"
+
+    [[params.navigation.links]]
+      name = "About"
+      url = "about"
 
     # [[params.navigation.links]]
     #   name = "Elements"
@@ -101,7 +103,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Audio Production Services"
       subtitle = "recording and directing for studio and stage"
-      image = "pic30.jpg"
+      image = "pic86.png"
       url = "audio_production/"
 
     [[params.tiles.showcase]]
@@ -111,17 +113,22 @@ disqusShortname = ""
       url = "artist_development/"
 
     [[params.tiles.showcase]]
-      title = "About"
-      subtitle = ""
-      image = "pic15.jpg"
-      url = "about/"
-
-    [[params.tiles.showcase]]
       title = "Rates"
       subtitle = ""
       image = "pic05.jpg"
       url = "rates/"
 
+    [[params.tiles.showcase]]
+      title = "Contact"
+      subtitle = ""
+      image = "pic98.jpg"
+      url = "contact/"
+
+    [[params.tiles.showcase]]
+      title = "About"
+      subtitle = ""
+      image = "pic15.jpg"
+      url = "about/"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
@@ -170,7 +177,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Daring Ventures Multimedia"
+    copyright = "Daring Ventures Multimedia, Images: D. Vernum, J. Goldman, J. Mann, J. Austin, D.B. Rouse"
 
 
 
