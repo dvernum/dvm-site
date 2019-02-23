@@ -6,9 +6,22 @@ image: pic47.jpg
 picture: pic42.jpg
 ---
 <div style="text-align: center;">
+<i>Choices Were Made</i>
+<br>
+full album
+<br>
+EXPLICIT CONTENT
+<br>
+<iframe src="https://open.spotify.com/embed/album/6dpx1byy8gjhYtqUdDEOLj" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 "Get My Shit Together"
 <br>
-from the upcoming album <i>Choices Were Made</i>
+from the album <i>Choices Were Made</i>
 <br>
 EXPLICIT CONTENT
 
@@ -27,13 +40,29 @@ EXPLICIT CONTENT
 <br>
 <br>
 <br>
+
+
+
 "About the Bite Missing From Your Sandwich"
 <br>
-from the upcoming album <i>Choices Were Made</i>
+from the album <i>Choices Were Made</i>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rxCovQQdbXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<a href="http://imperfectfifth.com/d-b-rouse-about-the-bite-missing-from-your-sandwich/" target="_blank"><b>IMPERFECT FIFTH -- Meredith Schneider</b></span></a>
+<a href="http://imperfectfifth.com/d-b-rouse-about-the-bite-missing-from-your-sandwich/" target="_blank"><b>IMPERFECT FIFTH review -- Meredith Schneider</b></span></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+"The Only Designated Driver in Milwaukee is Having A Pity Party"
+<br>
+from the album <i>Choices Were Made</i>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_OXAq6iYAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<a href="https://www.forfolkssake.com/news/38302/video-premiere-d-b-rouse-the-only-designated-driver-in-milwaukee-is-having-a-pity-party" target="_blank"><b>For Folk's Sake review -- Jonathan Frahm</b></span></a>
 
 
 <br><br><br><br><br>
@@ -41,6 +70,7 @@ from the upcoming album <i>Choices Were Made</i>
 <br>
 EXPLICIT CONTENT
 <iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/fb53f788-4a40-4ac2-b23e-ea57b9c2fa15/mini/dark/opaque"></iframe>
+<br>
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/whiskey-the-road-to-ruin-single/1209255940"></iframe>
 <br>
