@@ -184,7 +184,7 @@ disqusShortname = ""
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com/MusicLessonsAustin/"
+      url= "https://www.facebook.com/DaringVenturesStudios"
       label = "Facebook"
 
     [[params.footer.social]]
