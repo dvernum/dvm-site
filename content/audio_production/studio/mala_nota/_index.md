@@ -1,7 +1,7 @@
 ---
 title: Mala Nota
 type: tile_design
-order: 5
+order: 7
 image: pic62.jpg
 picture:  pic62.jpg
 ---

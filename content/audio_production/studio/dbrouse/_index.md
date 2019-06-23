@@ -2,8 +2,8 @@
 title: db rouse
 type: tile_design
 order: 2
-image: pic47.jpg
-picture: pic42.jpg
+image: pic106.jpg
+picture: pic105.jpg
 ---
 <div style="text-align: center;">
 <i>Choices Were Made</i>

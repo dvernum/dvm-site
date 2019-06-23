@@ -16,7 +16,7 @@ Producer/Performer
 Manager/Educator
 <br>
 <br>
-Dr D has appeared on TV and film for NBC, HBO and various independent productions.
+Darrell "Dr D" Vernum has appeared on TV and film for NBC, HBO and various independent productions.
 <br>
 <br>
 <u>Dr D has appeared/studied/worked with:</u>

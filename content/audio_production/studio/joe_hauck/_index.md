@@ -1,7 +1,7 @@
 ---
 title: Joseph Hauck
 type: tile_design
-order: 1
+order: 3
 image: pic63.jpg
 picture:  pic63.jpg
 ---
