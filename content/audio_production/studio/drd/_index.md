@@ -9,7 +9,7 @@ picture:  pic08.jpg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YWKJSiF-Luk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-Download CD-quality audio [.wav, 16-bit/44.1kHz]
+Download CD-quality audio [.wav/16-bit/44.1kHz]
 <br>
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=14426223/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://daringventuresmultimedia.bandcamp.com/track/pure-blue">Pure Blue by Dr D</a></iframe>
 <br>
