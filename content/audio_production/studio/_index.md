@@ -1,5 +1,5 @@
 ---
-title: album production
+title: albums
 type: tile_design
 order: 1
 picture: pic65.jpg
