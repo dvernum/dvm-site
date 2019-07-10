@@ -25,16 +25,17 @@ picture: pic12.jpg
 
 “The best teacher I ever had!” — Cornelius P.
 
-“I’m glad to have known you and especially to have had you as a music teacher.” — Chris P.
-
-“I’m proud to have had you as a music teacher.” — Gary P.
-
 “The best guitar playing I’ve ever heard” — R.A.
 
+"Darrell is a very good teacher with a great sense of humor. I enjoy my time with him and his knowledge of music and music theory is excellent." — David Lastrapes
 
 “Dr. D lives and breathes music.  If you’re a musician with even the smallest kindling of desire to learn, he will light a fire under you and you will grow as an artist, musician, and writer.  I’ve worked with him mostly in a band setting where he worked as our band director.  I’ve also witnessed his vocal lesson work first hand with a friend of mine.  Within a year the student he was working with went from being a beginner with no theory knowledge to a jazzy sort of Gene Autry with a style built on a foundation of music theory.  With his encouragement, raw enthusiasm, and know-how she gained what seemed like a lifetime of music knowledge, performing ability, and confidence in the matter of a year.  I’ve also worked with Dr. D in a recording and producing setting.  He has the equipment and the ability to make professional and marketable recordings, and his artistic input on these recordings has been invaluable.  If I wasn’t touring all the time, I’d be working with him every chance I got.  I still do whenever I make it back to Austin.  Dr. D is quickly becoming an essential figure in the live music capital of the world.” — hobo r.
 
+“I’m glad to have known you and especially to have had you as a music teacher.” — Chris P.
+
 “Darrell is hands down a phenomenal coach and teacher. I was looking for a vocal coach, but was hoping to find someone with expert knowledge in a diverse range of instruments, theory, song composition and arrangement, and audio production. Darrell does all of this and more. Moreover his approach is direct and encouraging, with an emphasis on pushing to you to become your best. I look forward to every lesson. Recommend 100%.” — Brian T.
+
+“I’m proud to have had you as a music teacher.” — Gary P.
 
 “Doctor D. has an intimate knowledge of music theory, as well as a tried and true method that allows students to learn quickly while having fun in the process. He sincerely strives to bring out the best in his students, and that effort is reflected in his results.” — Jackson S.
 
