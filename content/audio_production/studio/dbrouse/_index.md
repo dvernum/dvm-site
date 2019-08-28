@@ -6,11 +6,29 @@ image: pic106.jpg
 picture: pic105.jpg
 ---
 <div style="text-align: center;">
+"Papercut"
+<br>
+2019 Remix
+<br>
+<a href="http://store.cdbaby.com/cd/dbrouse111" target="cdbaby" style="display:inline-block;background:url(http://CDBaby.name/3/b/3balb01669513.jpg) 18px 2px no-repeat, url(https://content.cdbaby.com/img/links/link-artwork-cart-light-buy-now.png) 0px 0px no-repeat;background-size:175px, 211px;height:233px;width:211px;" title="D.B. Rouse: Papercut" alt="D.B. Rouse: Papercut" ></a>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8YivAU2lo94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<iframe src="https://open.spotify.com/embed/album/4HKdprPM42izSd21jIAavX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+<br>
+<br>
+<br>
+<br>
 <i>Choices Were Made</i>
 <br>
 full album
 <br>
 EXPLICIT CONTENT
+<br>
+<a href="http://store.cdbaby.com/cd/dbrouse36" target="cdbaby" style="display:inline-block;background:url(http://CDBaby.name/s/7/s7alb01518216.jpg) 18px 2px no-repeat, url(https://content.cdbaby.com/img/links/link-artwork-cart-light-buy-now.png) 0px 0px no-repeat;background-size:175px, 211px;height:233px;width:211px;" title="D.B. Rouse: Choices Were Made" alt="D.B. Rouse: Choices Were Made" ></a>
 <br>
 <iframe src="https://open.spotify.com/embed/album/6dpx1byy8gjhYtqUdDEOLj" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 <br>
@@ -69,8 +87,11 @@ from the album <i>Choices Were Made</i>
 "Whiskey, The Road to Ruin"
 <br>
 EXPLICIT CONTENT
-<iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/fb53f788-4a40-4ac2-b23e-ea57b9c2fa15/mini/dark/opaque"></iframe>
 <br>
+
+<a href="http://store.cdbaby.com/cd/dbrouse110" target="cdbaby" style="display:inline-block;background:url(http://CDBaby.name/d/b/dbrouse110.jpg) 18px 2px no-repeat, url(https://content.cdbaby.com/img/links/link-artwork-cart-light-buy-now.png) 0px 0px no-repeat;background-size:175px, 211px;height:233px;width:211px;" title="D.B. Rouse: Whiskey, The Road to Ruin" alt="D.B. Rouse: Whiskey, The Road to Ruin" ></a>
+<br>
+
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/whiskey-the-road-to-ruin-single/1209255940"></iframe>
 <br>
@@ -83,10 +104,9 @@ EXPLICIT CONTENT
 "God Is On Your Side"
 <br>
 
-<iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/f6151849-f955-4ddb-ad25-3ae8657fde53/mini/dark/opaque"></iframe>
 
 
-
+<a href="http://store.cdbaby.com/cd/dbrouse1" target="cdbaby" style="display:inline-block;background:url(http://CDBaby.name/d/b/dbrouse1.jpg) 18px 2px no-repeat, url(https://content.cdbaby.com/img/links/link-artwork-cart-light-buy-now.png) 0px 0px no-repeat;background-size:175px, 211px;height:233px;width:211px;" title="D.B. Rouse: God Is On Your Side" alt="D.B. Rouse: God Is On Your Side" ></a>
 
 
 
@@ -98,14 +118,7 @@ EXPLICIT CONTENT
 <iframe src="https://open.spotify.com/embed/album/0LnSndd9q6TZcS1NFlt7F5" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 <br>
 <br>
-<br>
-<br>
-<br>
-"Papercut"
-<div dir="ltr" style="text-align: center;" trbidi="on">
-<div class="separator" style="clear: both; text-align: center;">
-<span style="font-size: xx-small;"><iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=3976965623/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/track=3669357746/transparent=true/" style="border-width: 0px; height: 470px; width: 350px;"></iframe></span></div>
-<div class="separator" style="clear: both; text-align: center;">
+
 <br>
 <br>
 <div style="text-align: center;">
