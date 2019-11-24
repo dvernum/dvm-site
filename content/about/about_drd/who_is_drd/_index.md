@@ -5,8 +5,6 @@ order: 1
 image: pic08.jpg
 picture: pic50.jpg
 ---
-President/Founder of DVM
-<br>
 Conductor/Director
 <br>
 Composer/Arranger
@@ -16,7 +14,7 @@ Producer/Performer
 Manager/Educator
 <br>
 <br>
-Darrell "Dr D" Vernum has appeared on TV and film for NBC, HBO and various independent productions.
+Darrell "Dr D" Vernum has appeared on TV and film for NBC, HBO and various independent productions and is a member of ASCAP.
 <br>
 <br>
 <u>Dr D has appeared/studied/worked with:</u>
