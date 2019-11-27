@@ -194,5 +194,5 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-music"
-      url= "https://www.ascap.com/"
+      url= "https://www.ascap.com/repertory/about"
       label = "ASCAP"
