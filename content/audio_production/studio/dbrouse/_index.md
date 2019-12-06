@@ -13,7 +13,7 @@ picture: pic105.jpg
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/where-the-wind-blows-single/1489756175"></iframe>
 
 <br>
-<iframe src="https://open.spotify.com/embed/album/1AhvK0dtxFhomzNnLCWM92" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/1AhvK0dtxFhomzNnLCWM92" width="300" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br>
 <br>
 <br>
@@ -28,7 +28,7 @@ picture: pic105.jpg
 <br>
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/papercut-single/1476087888"></iframe>
 <br>
-<iframe src="https://open.spotify.com/embed/album/4HKdprPM42izSd21jIAavX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/4HKdprPM42izSd21jIAavX" width="300" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 <br>
@@ -118,7 +118,7 @@ EXPLICIT CONTENT
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/whiskey-the-road-to-ruin-single/1209255940"></iframe>
 <br>
-<iframe src="https://open.spotify.com/embed/album/3hiJndjRGoTEG30Y24gCaI" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/3hiJndjRGoTEG30Y24gCaI" width="300" height="100" frameborder="0" allowtransparency="true"></iframe>
 <br>
 <br>
 <br>
@@ -138,7 +138,7 @@ EXPLICIT CONTENT
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/god-is-on-your-side-single/1085431506"></iframe>
 
 <br>
-<iframe src="https://open.spotify.com/embed/album/0LnSndd9q6TZcS1NFlt7F5" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/0LnSndd9q6TZcS1NFlt7F5" width="300" height="100" frameborder="0" allowtransparency="true"></iframe>
 <br>
 <br>
 
