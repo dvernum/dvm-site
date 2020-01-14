@@ -57,7 +57,7 @@ disqusShortname = ""
       url = "artist_development"
 
     [[params.navigation.links]]
-      name = "Policy"
+      name = "Booking"
       url = "policy"
 
     [[params.navigation.links]]
@@ -113,7 +113,7 @@ disqusShortname = ""
       url = "artist_development/"
 
     [[params.tiles.showcase]]
-      title = "Policy"
+      title = "Booking"
       subtitle = ""
       image = "pic05.jpg"
       url = "policy/"

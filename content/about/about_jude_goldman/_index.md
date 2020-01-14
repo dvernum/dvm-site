@@ -1,5 +1,5 @@
 ---
-title: Jude Goldman
+title: Goldman
 type: tile_design
 order: 3
 image: pic66.jpg
