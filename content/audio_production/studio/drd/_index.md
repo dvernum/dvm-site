@@ -27,3 +27,9 @@ Stream on Spotify
 Apple iTunes
 <br>
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/pure-blue-single/1469967952"></iframe>
+<br>
+<br>
+<iframe width="100%" height="520" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_5078980?widget_id=55&pwc[included_songs]=1&context_type=page_object&spoid=artist_5078980" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+<br>
+<br>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=839166490/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://daringventuresmultimedia.bandcamp.com/track/built-for-speed">Built For Speed by Dr D</a></iframe>
