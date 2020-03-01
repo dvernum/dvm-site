@@ -115,7 +115,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Booking"
       subtitle = ""
-      image = "pic05.jpg"
+      image = "pic12.jpg"
       url = "policy/"
 
     [[params.tiles.showcase]]

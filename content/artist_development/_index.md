@@ -24,6 +24,8 @@ Songwriting
 <br>
 Performing
 <br>
+Rehearsing
+<br>
 Recording
 <br>
 Editing

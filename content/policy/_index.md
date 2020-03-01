@@ -2,8 +2,8 @@
 title: Booking
 type: tile_design
 order: 3
-picture: pic05.jpg
-image: pic05.jpg
+picture: pic12.jpg
+image: pic12.jpg
 ---
 For inquiries regarding scheduling and current rates ---
 <a href="https://daringventuresmultimedia.com/contact/"><span style="font-size: normal;"><b>email, call</b></span></a> or use the contact form at the bottom of the <a href="https://daringventuresmultimedia.com/"><span style="font-size: normal;"><b>home</b></span></a> page.
