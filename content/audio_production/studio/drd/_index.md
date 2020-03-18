@@ -6,6 +6,7 @@ image: pic107.jpg
 picture:  pic08.jpg
 ---
 <div style="text-align: center;">
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1105794306/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://daringventuresmultimedia.bandcamp.com/track/pure-blue-remaster-001">Pure Blue [Remaster 001] by Dr D</a></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YWKJSiF-Luk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
