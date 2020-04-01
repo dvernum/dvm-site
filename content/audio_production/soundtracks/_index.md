@@ -43,6 +43,3 @@ SOUNDTRACK and SOUND DESIGN CREATION FOR FILM, TELEVISION, and INTERNET BROADCAS
 <div class="separator" style="clear: both; text-align: center;">
 <iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/185801109&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe></div>
 <div class="separator" style="clear: both; text-align: center;">
-<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/185801248&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>&nbsp; &nbsp;</div>
-<div class="separator" style="clear: both; text-align: center;">
-<i><br /></i></div>
