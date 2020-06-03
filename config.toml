@@ -189,7 +189,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://twitter.com/DaringVentures"
+      url= "https://twitter.com/DVMultimedia"
       label = "Twitter"
 
     [[params.footer.social]]
